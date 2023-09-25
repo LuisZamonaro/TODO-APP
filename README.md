@@ -3,4 +3,5 @@ To start the project, open the integrated terminal in the backend folder and use
    - yarn dev 
   or 
    - npm run dev
-Simply repeat the same process in the frontend folder.
+
+- Simply repeat the same process in the frontend folder.
